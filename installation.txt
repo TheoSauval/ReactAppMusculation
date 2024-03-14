@@ -1,0 +1,4 @@
+differentes installation :
+search bar --> npm install @rneui/themed @rneui/base
+Carousel: 
+npm install react-native-snap-carousel
